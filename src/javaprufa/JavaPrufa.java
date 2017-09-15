@@ -17,6 +17,7 @@ public class JavaPrufa {
     public static void main(String[] args) {
         System.out.println ("prófa Git");
         System.out.println ("breytingar til teymisins");
+        System.out.println ("Notkunartilvik 1");
     }
     
 }
